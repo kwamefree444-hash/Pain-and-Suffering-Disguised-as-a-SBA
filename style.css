@@ -7,8 +7,7 @@
 }
 .header {
     display: flex;
-    justify-content: center;
-    color: antiquewhite;
+    justify-content:left
     
 
 }
@@ -37,4 +36,13 @@ h2 {
     display: flex;
     flex-direction: row;
     gap: 350px;
+    height: 45px;
+    align-items: end;
+    color: antiquewhite;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    color: antiquewhite;
 }
