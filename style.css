@@ -49,3 +49,22 @@ h1 {
     justify-content: center;
     
 }
+.button {
+    display: flex;
+    justify-content: center;
+}
+.section-1{
+    color: antiquewhite;
+    display: flex;
+    justify-content: center;
+}
+.Services{
+    color: antiquewhite;
+    display: flex;
+    justify-content: center;
+}
+.Contact-Form{
+    color: antiquewhite;
+    display: flex;
+    justify-content: center;
+}
