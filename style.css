@@ -1,0 +1,33 @@
+.Bread {
+    display: flex;
+    justify-content: flex-end;
+    justify-content: space-around;
+    color: antiquewhite;
+    
+}
+.header {
+    display: flex;
+    justify-content: center;
+    color: antiquewhite;
+
+}
+
+.pic {
+    display: flex;
+    justify-content: center
+    
+}
+
+body{
+    background-color: #151512;
+}
+h2 {
+    color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Hero-Section {
+
+}
