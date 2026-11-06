@@ -7,14 +7,12 @@
 }
 .header {
     display: flex;
-    justify-content:left
-    
-
+    justify-content:center;
 }
 
 .pic {
     display: flex;
-    justify-content: center
+    justify-content: flex-start;
     
 }
 
@@ -25,7 +23,6 @@ h2 {
     color: antiquewhite;
     display: flex;
     justify-content: center;
-    align-items: center;
 }
 
 .Hero-Section {
@@ -35,9 +32,9 @@ h2 {
 .navbar {
     display: flex;
     flex-direction: row;
-    gap: 350px;
+    gap: 100px;
     height: 45px;
-    align-items: end;
+    justify-content: center;
     color: antiquewhite;
 }
 
@@ -45,4 +42,10 @@ h1 {
     display: flex;
     justify-content: center;
     color: antiquewhite;
+}
+
+.hero-image{
+    display: flex;
+    justify-content: center;
+    
 }
