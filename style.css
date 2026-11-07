@@ -13,7 +13,7 @@
 .pic {
     display: flex;
     justify-content: flex-start;
-    
+    width: 100px;
 }
 
 body{
@@ -67,4 +67,37 @@ h1 {
     color: antiquewhite;
     display: flex;
     justify-content: center;
+    
+    
+    width: 
 }
+
+#Services{
+    color: antiquewhite;
+    margin-bottom: 100px;
+}
+
+.Grid-Services{
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+    grid-template-rows: 100px 100px 100px;
+    color: antiquewhite;
+    background-color: antiquewhite;
+    margin-bottom: 188px;
+}
+
+.About-Us-desc{
+    color: antiquewhite;
+    margin-bottom: 100px;
+}
+
+
+.Flex-container{
+    display: flex;
+    background-color: burlywood;
+    flex-direction: column;
+
+
+}
+
+   
