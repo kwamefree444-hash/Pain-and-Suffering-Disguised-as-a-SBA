@@ -88,7 +88,7 @@ h1 {
 
 .About-Us-desc{
     color: antiquewhite;
-    margin-bottom: 100px;
+    margin-bottom: 170px;
 }
 
 
@@ -99,5 +99,18 @@ h1 {
 
 
 }
-
-   
+ .copyright{
+    color: antiquewhite;
+ }
+.button{
+    margin-bottom: 150px;
+}
+.footercontact{
+    color: antiquewhite;
+}
+.footer-social{
+    color: antiquewhite;
+}
+.griditems{
+    color: black;
+}
